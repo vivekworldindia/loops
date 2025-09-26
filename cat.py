@@ -8,11 +8,10 @@
 #     print("meow")
 #     i += 1 
 
-# for and list uses
+### for and list uses
 # for i in [0,1,2]:
 
-# range function 
-
+### range function 
 # for _ in range(10):
 #     print("meow")
     
@@ -20,8 +19,7 @@
 # print("meow\n"*3 ,end="")
 
 
-# while true function 
-
+### while true function 
 # while True :
 #     n = int(input("What's n? "))
 #     if n > 0:

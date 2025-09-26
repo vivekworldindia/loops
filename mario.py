@@ -1,5 +1,3 @@
-# 
-
 def main():
     print_square(3)
     # print_row(4)
